@@ -1,0 +1,91 @@
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Joan&family=Kdam+Thmor+Pro&family=Oswald:wght@300;500;700&display=swap" rel="stylesheet">
+
+*{margin: 0%;}
+
+body{
+	font-family: 'Oswald', sans-serif;}
+.supportsection{
+	background: #ff005e1c;
+}
+.container{
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 50px 50px;
+	display: flex;
+	align-items: center;
+}
+.content h6{
+	font-size: 40px;
+	margin-bottom: -44px;
+}
+.content h2{ font-size: 51px;
+    color: #3b1970a6;
+    font-weight: 900; 
+    line-height: 1.1;
+   text-transform: capitalize;
+   margin-bottom: 16px;
+
+
+}
+.content p{
+	font-size: 20px;
+}
+
+.images{
+	max-width: 50%;}
+
+.content{
+	max-width: 50%;
+	padding: 35px;
+}
+
+.content a{
+	padding: 20px 40px;
+	background: lightgrey;
+	display: inline-block;
+	font-size: 25px;
+	text-decoration: none;
+	margin-top: 10px;
+	text-align:center ;
+	color: navy;
+	font-weight: 700;
+	text-transform: uppercase;
+	border-radius: 10px;
+}
+.featureSection{
+	padding: 50px 0;
+}
+.featur{
+	max-width: 33.33%;
+	padding: 40px 15px;
+	
+}
+.featur div{
+	background: #bdedba6e;
+	padding: 50px 25px;
+	border-radius: 30px;
+	min-height:225px ;
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	justify-content:center ;
+
+}
+.featur h2{}
+.featur p{
+	font-size: 20px;
+}
+.featur img{
+	width: 50px;
+	height: 55px;
+	margin-bottom:30px ;
+	fill: darkred;
+}
+.aboutus{
+	background: #e7e1dc;
+}
+
